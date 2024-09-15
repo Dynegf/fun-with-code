@@ -1,3 +1,3 @@
 # fun-with-code
-This is my first Git Repository
+This is my first Git Repository /n
 Authur Naruto Baruto's Father
